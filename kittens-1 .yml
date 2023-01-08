@@ -46,13 +46,9 @@ Resources:
             wget $FOLDER/ata4.jpg
             wget $FOLDER/ata5.jpg
             wget $FOLDER/ata6.jpg
-            wget $FOLDER/ata7.jpg
-            wget $FOLDER/ata8.jpg
-            wget $FOLDER/ata9.jpg
-            wget $FOLDER/ata10.jpg
-            wget $FOLDER/ata11.jpg
             wget $FOLDER/ata12.jpg
             wget $FOLDER/ata13.jpg
+            wget $FOLDER/ataturk.mp4
             systemctl start httpd
             systemctl enable httpd
 
